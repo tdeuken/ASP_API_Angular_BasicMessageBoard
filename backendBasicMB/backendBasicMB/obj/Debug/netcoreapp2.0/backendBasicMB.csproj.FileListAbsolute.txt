@@ -1,0 +1,11 @@
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\bin\Debug\netcoreapp2.0\backendBasicMB.deps.json
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\bin\Debug\netcoreapp2.0\backendBasicMB.runtimeconfig.json
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\bin\Debug\netcoreapp2.0\backendBasicMB.runtimeconfig.dev.json
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\bin\Debug\netcoreapp2.0\backendBasicMB.dll
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\bin\Debug\netcoreapp2.0\backendBasicMB.pdb
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.csproj.CoreCompileInputs.cache
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.AssemblyInfoInputs.cache
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.AssemblyInfo.cs
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.dll
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.pdb
+C:\Users\Tim Station\Documents\ASP_Projects\BasicMessageBoard\backendBasicMB\backendBasicMB\obj\Debug\netcoreapp2.0\backendBasicMB.csprojAssemblyReference.cache
